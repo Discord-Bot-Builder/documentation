@@ -16,9 +16,9 @@ We offer support to the community and the oppotrunity to meet new people in our 
 
 ## Let's go!
 
-### Get Beta[^1]
+### Get Beta
 
-Open Steam and go to your library. Right click on Discord Bot Builder and select Properties.
+Open Steam and go to your library. Right click on Discord Bot Builder and select Properties.[^1]
 
 ![](https://heroku.is-a-bad.host/i/qvwi.png)
 
